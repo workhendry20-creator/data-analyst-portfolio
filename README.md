@@ -1,2 +1,20 @@
-# data-analyst-portfolio
-Data analyst portfolio showcasing projects in data cleaning, visualization, exploratory data analysis, and business insights using Python, Excel, and Google Colab.
+# Data Analyst Portfolio
+
+Welcome to my Data Analyst Portfolio. This repository contains projects focused on data cleaning, exploratory data analysis, visualization, and business insights using Python, Excel, and Google Colab.
+
+## Projects
+- [Sales Data Analysis](./Sales-Data-Analysis)
+
+## Tools
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+- Excel
+
+## Skills
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Exploratory Data Analysis
+- Business Insights
