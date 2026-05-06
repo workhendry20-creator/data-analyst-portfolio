@@ -4,6 +4,7 @@ Welcome to my Data Analyst Portfolio. This repository contains projects focused 
 
 ## Projects
 - [Sales Data Analysis](./Sales-Data-Analysis)
+- [TransJakarta Sentiment Analysis](./TransJakarta-Sentiment-Analysis)
 
 ## Tools
 - Python
